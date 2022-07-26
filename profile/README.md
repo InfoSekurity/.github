@@ -2,7 +2,7 @@
 <h1 align="center">We're interested in Reading<img src="https://c.tenor.com/jdSvLgTHCQkAAAAi/tkthao219-bubududu.gif" width=50>, Implementing<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width=50>, Exploring<img src="https://c.tenor.com/bgfU3WsoVMwAAAAi/wander-explore-experience-explore.gif" width=50> etc.</h1></div>  
   
 <div align="center">
-<img src="https://github.com/Aditya-Vishwa/Aditya-Vishwa/blob/main/InfoSekurity/Infosekurity.gif" align="center" width=1000 height=400 />
+<img src="https://github.com/Aditya-Vishwa/Aditya-Vishwa/blob/main/InfoSekurity/Infosekurity.gif" align="center" width=800 height=400 />
 </div>  
 
 <p align="center"> <a href="https://twitter.com/InfoSekurity" target="blank"><img src="https://img.shields.io/twitter/follow/InfoSekurity?logo=twitter&style=for-the-badge" alt="InfoSekurity" /></a> </p>
