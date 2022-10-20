@@ -2,7 +2,7 @@
 <h1 align="center">Internet<img src="https://c.tenor.com/gntZa6Am9b8AAAAi/good-internet-rawa-tv.gif" width=30> Security<img src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" width=30>
   
 <div align="center">
-<img src="https://github.com/Aditya-Vishwa/Aditya-Vishwa/blob/main/InfoSekurity/Infosekurity.gif" align="center" style="width=100%" />
+<!-- <img src="https://github.com/Aditya-Vishwa/Aditya-Vishwa/blob/main/InfoSekurity/Infosekurity.gif" align="center" style="width=100%" /> -->
 </div>  
 
 <p align="center"> <a href="https://twitter.com/InfoSekurity" target="blank"><img src="https://img.shields.io/twitter/follow/InfoSekurity?logo=twitter&style=for-the-badge" alt="InfoSekurity" /></a> </p>
